@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "/media/nada/Biji/opensource/keripix/css/belajar-layout"
+		}
+	],
+    "settings":
+    {
+        "less2css":
+        {
+            "minify": false,
+            "main_file": "./less/style.less"
+        }
+    }
+}

@@ -1,0 +1,2167 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ajax",
+				"ajaxPlaceholder"
+			],
+			[
+				"onAjax",
+				"onAjaxPageLoadRequested"
+			],
+			[
+				"configure",
+				"configureSliderOnModal"
+			],
+			[
+				"onAjaxPageLoad",
+				"onAjaxPageLoadRequested"
+			],
+			[
+				"clon",
+				"clonedImg"
+			],
+			[
+				"img",
+				"imgToChange"
+			],
+			[
+				"zom",
+				"zoomOut"
+			],
+			[
+				"focus",
+				"focused"
+			],
+			[
+				"categ",
+				"category-items"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"categor",
+				"category-content"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"loadPag",
+				"loadPage"
+			],
+			[
+				"capture",
+				"captureReadMore"
+			],
+			[
+				"confg",
+				"configureSliderOnModal"
+			],
+			[
+				"config",
+				"configureSliderOnModal"
+			],
+			[
+				"cap",
+				"captureLoadWithAjax"
+			],
+			[
+				"contact",
+				"contactModal"
+			],
+			[
+				"loadPage",
+				"loadPageOnCache"
+			],
+			[
+				"loaded",
+				"loadedPage"
+			],
+			[
+				"browser",
+				"browserify"
+			],
+			[
+				"capu",
+				"captureGetPage"
+			],
+			[
+				"lazy",
+				"lazyme"
+			],
+			[
+				"carou",
+				"carousel"
+			],
+			[
+				"touchs",
+				"touchswipe"
+			],
+			[
+				"Mencatate",
+				"MencatatKemacetanRepository"
+			],
+			[
+				"time",
+				"timeProvider"
+			],
+			[
+				"is_N",
+				"is_null"
+			],
+			[
+				"lo",
+				"l-offset-2"
+			],
+			[
+				"grid",
+				"grid-example-border"
+			],
+			[
+				"grid-ite",
+				"grid-item-color"
+			],
+			[
+				"l-of",
+				"l-offset-5"
+			],
+			[
+				"l-offs",
+				"l-offset-3"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"l-",
+				"l-offset-1"
+			],
+			[
+				"bor",
+				"bor	CSS - border-radius: ;"
+			],
+			[
+				"seriaz",
+				"serializeData"
+			],
+			[
+				"serial",
+				"serializeData"
+			],
+			[
+				"input",
+				"input	input - text"
+			],
+			[
+				"contentPl",
+				"contentPluginRenderer"
+			],
+			[
+				"ContentPl",
+				"ContentPluginRenderer"
+			],
+			[
+				"Content",
+				"ContentPluginRenderer"
+			],
+			[
+				"content",
+				"contentView"
+			],
+			[
+				"wp_hea",
+				"wp_head"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"javascrp",
+				"javascript"
+			],
+			[
+				"var",
+				"variable1"
+			],
+			[
+				"progres",
+				"progressBar"
+			],
+			[
+				"progre",
+				"progressBar"
+			],
+			[
+				"upload",
+				"uploadButton"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"backl",
+				"background-color"
+			],
+			[
+				"toggle",
+				"toggleOver"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"backr",
+				"background-color"
+			],
+			[
+				"sideb",
+				"sidebarHasBeenHidden"
+			],
+			[
+				"toggl",
+				"toggleDisplay"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"actionTo",
+				"actionToolViews"
+			],
+			[
+				"actionToo",
+				"actionToolViews"
+			],
+			[
+				"unwr",
+				"unwrapActivityView"
+			],
+			[
+				"activit",
+				"activities"
+			],
+			[
+				"DeleteActi",
+				"DeleteActionView"
+			],
+			[
+				"tr",
+				"trigger"
+			],
+			[
+				"tamp",
+				"tampilkanProses"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"seri",
+				"serializeData"
+			],
+			[
+				"MarItem",
+				"Marionette.ItemView"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"mariV",
+				"Marionette.ItemView"
+			],
+			[
+				"displ",
+				"displayName"
+			],
+			[
+				"activity",
+				"activityView"
+			],
+			[
+				"setup",
+				"setupReferences"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"swit",
+				"switch"
+			],
+			[
+				"switc",
+				"Switch"
+			],
+			[
+				"pos",
+				"pos:f	position:fixed"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"bila",
+				"bilangan"
+			],
+			[
+				"edit-activity",
+				"edit-activity-holder"
+			],
+			[
+				"devel",
+				"development"
+			],
+			[
+				"page",
+				"pageNumber"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"brand",
+				"brand-tagline"
+			],
+			[
+				"lig",
+				"light-grey"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"pure-",
+				"pure-u-1"
+			],
+			[
+				"pure",
+				"pure-menu-open"
+			],
+			[
+				"pure-men",
+				"pure-menu-horizontal"
+			],
+			[
+				"nav",
+				"nav-list"
+			],
+			[
+				"titl",
+				"title-font"
+			],
+			[
+				"tit",
+				"title-font"
+			],
+			[
+				"activitie",
+				"activities"
+			],
+			[
+				"activities",
+				"activities-list"
+			],
+			[
+				"EventCollection",
+				"EventCollectionView"
+			],
+			[
+				"EventC",
+				"EventCollection"
+			],
+			[
+				"eventColl",
+				"eventCollection"
+			],
+			[
+				"eventCollec",
+				"eventCollectionView"
+			],
+			[
+				"activiti",
+				"activitiesView"
+			],
+			[
+				"loca",
+				"locationAction"
+			],
+			[
+				"location",
+				"fetchLocations"
+			],
+			[
+				"Controll",
+				"Marionette.Controller"
+			],
+			[
+				"trigger",
+				"triggers"
+			],
+			[
+				"Loca",
+				"LocationModel"
+			],
+			[
+				"inti",
+				"initialize"
+			],
+			[
+				"Service",
+				"ServiceOptions"
+			],
+			[
+				"toEq",
+				"toEqual"
+			],
+			[
+				"Activity",
+				"ActivityServices"
+			],
+			[
+				"Marione",
+				"Marionette.Controller"
+			],
+			[
+				"Marion",
+				"Marionette.Controller"
+			],
+			[
+				"Even",
+				"EventAggregator"
+			],
+			[
+				"listen",
+				"listenTo"
+			],
+			[
+				"initi",
+				"initialize"
+			],
+			[
+				"Activit",
+				"ActivityStreams"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"tex",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 379,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/keripix/.config/sublime-text-2/Packages/Less2Css/README.md",
+			"settings":
+			{
+				"buffer_size": 7435,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 252.0,
+		"selected_items":
+		[
+			[
+				"MIT",
+				"Licence Snippet: MIT"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"enal",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"names",
+				"Insert PHP namespace"
+			],
+			[
+				"namesac",
+				"Insert PHP namespace"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"gdb",
+				"SublimeGDB: Stop Debugging"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rmove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"setting u",
+				"Preferences: Settings - User"
+			],
+			[
+				"wordp",
+				"Snippet: WordPress Plugin Boilerplate"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"browser",
+				"View In Browser"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"musta",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				":\"",
+				"Snippet: Object key — key: \"value\""
+			],
+			[
+				"Setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"brows",
+				"View In Browser"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"view b",
+				"View In Browser"
+			],
+			[
+				"redin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"eco",
+				"Set Syntax: HTML (ECO)"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (ECO)"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"reidn",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pre",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"preve",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"makr",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"tid",
+				"TidyHTML"
+			],
+			[
+				"chro",
+				"Snippet: Chrome App manifest"
+			],
+			[
+				"toggle ",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 442.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/nada/Biji/opensource/keripix/css/pethak/bower_components/pure/pure.css",
+		"/media/nada/Biji/opensource/keripix/css/pethak/Makefile",
+		"/media/nada/Biji/opensource/keripix/css/pethak/css/style.css",
+		"/media/nada/Biji/opensource/keripix/css/pethak/docs/structure.html",
+		"/media/nada/Biji/opensource/keripix/css/pethak/css/structure.css",
+		"/media/nada/Biji/opensource/keripix/css/pethak/README.md",
+		"/media/nada/Biji/opensource/keripix/css/pethak/bower_components/pure/grids-units.css",
+		"/media/nada/Biji/opensource/keripix/css/pethak/bower_components/pure/grids-core.css",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/about.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/aboutVision.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/scripts/config.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/scripts/index.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/knittedGlove.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/chemicalGlove.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/scripts/page.js",
+		"/media/nada/Biji/opensource/keripix/css/pethak/MIT.LICENSE",
+		"/media/nada/Biji/opensource/keripix/css/pethak/bower.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/jquery-modal/jquery.modal.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/jquery-modal/jquery.modal.css",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/test/setup.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/test/pageSpec.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/scripts/main.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/scripts/error.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/_about.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/error.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/error.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/jquery-modal/README.md",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/index.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/styles/main.css",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/carouFredSel/jquery.carouFredSel-6.2.1.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/scripts/scroll.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/package.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/karma.conf.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/jasmine-jquery/lib/jasmine-jquery.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/jasmine-jquery/index.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/jasmine-jquery/README.markdown",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/btakita-jasmine-ajax/lib/mock-ajax.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/btakita-jasmine-ajax/package.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/btakita-jasmine-ajax/README.markdown",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/jasmine-jquery/package.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/jasmine-ajax/lib/mock-ajax.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/jasmine-ajax/.bower.json",
+		"/media/nada/Biji/opensource/js/Frameworks/Backbone/backbone/backbone.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/news.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/viewNews.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/scripts/zoom.js",
+		"/home/keripix/Downloads/npm-debug.log",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/scripts/modal.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/scripts/slide.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/carouFredSel/index.html",
+		"/home/keripix/contoh.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/README.md",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/todo.todo",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/categoryPage/knittedGlove.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/categoryPage/chemicalGlove.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/cat2.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/styles/modal.css",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/scripts/ea.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/jasmine.async/lib/jasmine.async.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/jasmine.async/package.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/jasmine-async/example/package.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/jasmine-async/example/app.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/jasmine-async/jasmine.async.node.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/jasmine-async/package.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/jasmine.async/.bower.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/karma-jasmine/lib/jasmine.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/karma-jasmine/package.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/karma-jasmine/README.md",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/node_modules/karma/package.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/jasmine-jquery/bower.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/test/fixtures/about.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/testem.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/build/bundle.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/scripts/lazy.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/viewProduct.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/jquery-modal/.bower.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/test/lazySpec.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/test/spec/lazySpec.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/.jshintrc",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/jquery/jquery.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/jquery.slimscroll/jquery.slimscroll.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/carouFredSel/.bower.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/bower_components/carouFredSel/README.md",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/build/build.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/app/main.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/.editorconfig",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/Gruntfile.js",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/.gitignore",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/.bowerrc",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/test/bower.json",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/test/index.html",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/test/.bowerrc",
+		"/media/nada/Biji/opensource/keripix/js/comet-glove/test/spec/test.js",
+		"/media/nada/Biji/opensource/keripix/js/reactode/src/one.js",
+		"/media/nada/Biji/opensource/keripix/js/reactode/jsx/one.js",
+		"/media/nada/Biji/opensource/keripix/js/reactode/package.json",
+		"/media/nada/Biji/opensource/js/UI/react-tutorial/server.js",
+		"/media/nada/pemrograman/mobile/touch/examples/kitchensink/app.js",
+		"/media/nada/pemrograman/mobile/touch/examples/touchtomatoes/app/model/Movie.js",
+		"/media/nada/pemrograman/mobile/touch/examples/touchtomatoes/resources/css/app.css",
+		"/media/nada/pemrograman/mobile/touch/cmd/sencha.cfg",
+		"/media/nada/pemrograman/mobile/touch/examples/touchtomatoes/app/view/WelcomeOverlay.js",
+		"/media/nada/pemrograman/mobile/touch/examples/touchtomatoes/index.html",
+		"/media/nada/pemrograman/mobile/touch/examples/nestedlist/app.js",
+		"/media/nada/pemrograman/mobile/touch/examples/nestedlist/app.json",
+		"/media/nada/pemrograman/mobile/touch/examples/touchtomatoes/app/components/MenuButton.js",
+		"/media/nada/pemrograman/mobile/touch/examples/touchtomatoes/app.json",
+		"/media/nada/pemrograman/mobile/touch/examples/touchtomatoes/resources/sass/app.scss",
+		"/media/nada/Biji/opensource/php/CMF/Juriya/juriya/composer.json",
+		"/media/nada/Biji/opensource/php/CMF/Juriya/admin/composer.json",
+		"/media/nada/Biji/opensource/php/CMF/Juriya/foundation/composer.json",
+		"/media/nada/pemrograman/mobile/touch/resources/themes/stylesheets/sencha-touch/default/src/_all.scss",
+		"/media/nada/pemrograman/mobile/touch/resources/themes/compass_init.rb",
+		"/media/nada/pemrograman/mobile/touch/resources/themes/stylesheets/sencha-touch/default/_all.scss",
+		"/media/nada/pemrograman/mobile/touch/resources/themes/stylesheets/sencha-touch/default/_my.scss",
+		"/media/nada/pemrograman/mobile/touch/resources/themes/stylesheets/sencha-touch/default/src/tab/_Panel.scss",
+		"/media/nada/pemrograman/mobile/touch/examples/kitchensink/app/view/ThemeTizen.js",
+		"/media/nada/pemrograman/mobile/touch/examples/kitchensink/resources/css/sencha-touch.css",
+		"/media/nada/pemrograman/mobile/touch/examples/resources/scss/style.scss",
+		"/media/nada/pemrograman/mobile/touch/examples/toolbars/resources/sass/config.rb",
+		"/media/nada/Biji/opensource/keripix/mobile/macet/api/TampilkanKemacetan/CatatKemacetan.php",
+		"/media/nada/Biji/opensource/keripix/mobile/macet/api/Kemacetan/CatatKemacetan.php",
+		"/media/nada/Biji/opensource/keripix/mobile/macet/api/Kemacetan/DaftarKemacetan.php",
+		"/media/nada/Biji/opensource/keripix/php/algo/tests/AlgoCronSpec.php",
+		"/media/nada/Biji/opensource/keripix/php/algo/composer.json",
+		"/media/nada/Biji/opensource/keripix/php/algo/TimeProviderInterface.php",
+		"/media/nada/Biji/opensource/keripix/php/algo/TimeProvider.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"();\n",
+			"-",
+			"captureReadMore",
+			"ajaxPlaceholder",
+			"photo-slides",
+			"TODO",
+			"_options",
+			"slide-next",
+			"photoSlides",
+			"remove",
+			"removeSlider",
+			"loadSelectedCategory",
+			"loadCategoryPage",
+			"loadPage",
+			"onAjaxPageLoadRequested",
+			"loadPage",
+			"onAjaxPageLoadRequested",
+			"\"",
+			"*",
+			"/**",
+			"*",
+			"*/",
+			"/**",
+			"*",
+			"*/",
+			"/**",
+			"*",
+			"\"",
+			"onSelectedCategory",
+			"//",
+			"//\n            ",
+			"\n            ",
+			"onBeforeLoadingAjaxPage",
+			"\"",
+			"scrollappearance",
+			"options",
+			"this",
+			"captureGetPage",
+			"page-nav-item",
+			");\n",
+			"read-more",
+			"conf",
+			"modal",
+			"DONE",
+			"focus",
+			"\"",
+			"app",
+			"\"",
+			"l-offset",
+			"grid-item-color",
+			"grid-item",
+			"grid-item-color",
+			"grid",
+			"pure-u-1",
+			"pure-hidden-des",
+			"@media",
+			"bones_register_sidebars",
+			"sidebar",
+			"bones_theme_support",
+			"rsd_link",
+			"save",
+			"TampilkanBarang",
+			"kami\n            ",
+			"\n            ",
+			"param",
+			"min.map",
+			"());\n",
+			"attributes",
+			"createActivityModel",
+			"setAttachments",
+			"activityFactory",
+			"contentView",
+			"layout",
+			"wrapNewContent",
+			"Config",
+			"      \n",
+			");\n",
+			"    \n",
+			"kirim",
+			"var SabunCuci = (function() {\n\n        function getXhr() {\n            return new XMLHttpRequest();\n        }\n\n        return {\n            getXhr: getXhr,\n            post: post\n        };\n\n    })(this);",
+			"save",
+			";\n",
+			"background: rgb(238,238,238); /* Old browsers */\n    background: -moz-linear-gradient(top, rgba(238,238,238,1) 0%, rgba(204,204,204,1) 100%); /* FF3.6+ */\n    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(238,238,238,1)), color-stop(100%,rgba(204,204,204,1))); /* Chrome,Safari4+ */\n    background: -webkit-linear-gradient(top, rgba(238,238,238,1) 0%,rgba(204,204,204,1) 100%); /* Chrome10+,Safari5.1+ */\n    background: -o-linear-gradient(top, rgba(238,238,238,1) 0%,rgba(204,204,204,1) 100%); /* Opera 11.10+ */\n    background: -ms-linear-gradient(top, rgba(238,238,238,1) 0%,rgba(204,204,204,1) 100%); /* IE10+ */\n    background: linear-gradient(to bottom, rgba(238,238,238,1) 0%,rgba(204,204,204,1) 100%); /* W3C */\n    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */",
+			"el",
+			"filelist",
+			"kirim",
+			"elDragEnter",
+			"dropzone",
+			"width",
+			"offsetLeft",
+			"div",
+			"Chrom",
+			"renderer",
+			"jquery",
+			"foundation",
+			"marionette",
+			"backbone",
+			"underscore",
+			"jquery",
+			"../",
+			"this",
+			"\n        ",
+			"//",
+			"deleteActivty",
+			".item",
+			"hideProgressBar",
+			"hide",
+			"showImage",
+			"updateProgress",
+			"process",
+			"button",
+			"config",
+			"disqus_identifier",
+			"disqus_shortname",
+			"disqus_identifier",
+			"#primary",
+			"attachEvent",
+			"addEventListener",
+			"code",
+			"pre",
+			"code",
+			"pre",
+			"media=\"all\"",
+			"all",
+			"background-color",
+			"font-size",
+			"header",
+			"entry-header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"//",
+			"'",
+			"*",
+			"'",
+			"saya",
+			"Tinos",
+			"activity"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"adsafe": false,
+								"asi": false,
+								"bitwise": false,
+								"boss": false,
+								"browser": true,
+								"camelcase": true,
+								"cap": false,
+								"couch": true,
+								"curly": true,
+								"debug": false,
+								"devel": false,
+								"eqeqeq": false,
+								"es5": false,
+								"evil": true,
+								"forin": false,
+								"fragment": false,
+								"globals":
+								{
+									"$": true,
+									"DS": true,
+									"Dms": true,
+									"Ember": true,
+									"Ext": true,
+									"Modernizr": true,
+									"after": true,
+									"afterEach": true,
+									"angular": true,
+									"before": true,
+									"beforeEach": true,
+									"chrome": true,
+									"console": true,
+									"describe": true,
+									"expect": true,
+									"fabric": true,
+									"inject": true,
+									"it": true,
+									"jQuery": true,
+									"jasmine": true,
+									"module": true,
+									"spyOn": true
+								},
+								"immed": false,
+								"latedef": false,
+								"laxbreak": false,
+								"loopfunc": true,
+								"multistr": true,
+								"newcap": true,
+								"noarg": true,
+								"node": true,
+								"noempty": true,
+								"nomen": false,
+								"nonew": true,
+								"onevar": false,
+								"passfail": false,
+								"plusplus": false,
+								"regexp": false,
+								"rhino": false,
+								"safe": false,
+								"strict": false,
+								"undef": true,
+								"white": false,
+								"widget": false,
+								"windows": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/home/keripix/.config/sublime-text-2/Packages/Less2Css/README.md",
+					"settings":
+					{
+						"buffer_size": 7435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2688,
+								2688
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"adsafe": false,
+								"asi": false,
+								"bitwise": false,
+								"boss": false,
+								"browser": true,
+								"camelcase": true,
+								"cap": false,
+								"couch": true,
+								"curly": true,
+								"debug": false,
+								"devel": false,
+								"eqeqeq": false,
+								"es5": false,
+								"evil": true,
+								"forin": false,
+								"fragment": false,
+								"globals":
+								{
+									"$": true,
+									"DS": true,
+									"Dms": true,
+									"Ember": true,
+									"Ext": true,
+									"Modernizr": true,
+									"after": true,
+									"afterEach": true,
+									"angular": true,
+									"before": true,
+									"beforeEach": true,
+									"chrome": true,
+									"console": true,
+									"describe": true,
+									"expect": true,
+									"fabric": true,
+									"inject": true,
+									"it": true,
+									"jQuery": true,
+									"jasmine": true,
+									"module": true,
+									"spyOn": true
+								},
+								"immed": false,
+								"latedef": false,
+								"laxbreak": false,
+								"loopfunc": true,
+								"multistr": true,
+								"newcap": true,
+								"noarg": true,
+								"node": true,
+								"noempty": true,
+								"nomen": false,
+								"nonew": true,
+								"onevar": false,
+								"passfail": false,
+								"plusplus": false,
+								"regexp": false,
+								"rhino": false,
+								"safe": false,
+								"strict": false,
+								"undef": true,
+								"white": false,
+								"widget": false,
+								"windows": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 747.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 102.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pure",
+				"bower_components/pure/pure.css"
+			],
+			[
+				"pure.css",
+				"bower_components/pure/pure.css"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"style",
+				"base/less/style.less"
+			],
+			[
+				"styl",
+				"css/style.css"
+			],
+			[
+				"grid",
+				"bower_components/pure/grids.css"
+			],
+			[
+				"struc",
+				"src/structure.css"
+			],
+			[
+				"stru",
+				"docs/structure.html"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"aboutv",
+				"app/aboutVision.html"
+			],
+			[
+				"confi",
+				"app/scripts/config.js"
+			],
+			[
+				"about",
+				"app/about.html"
+			],
+			[
+				"scro",
+				"app/scripts/scroll.js"
+			],
+			[
+				"conf",
+				"app/scripts/config.js"
+			],
+			[
+				"config",
+				"app/scripts/config.js"
+			],
+			[
+				"indx.js",
+				"app/scripts/index.js"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"main.js",
+				"app/scripts/main.js"
+			],
+			[
+				"about.",
+				"app/about.html"
+			],
+			[
+				"main.css",
+				"app/styles/main.css"
+			],
+			[
+				"index.js",
+				"app/scripts/index.js"
+			],
+			[
+				"confg",
+				"app/scripts/config.js"
+			],
+			[
+				"knit",
+				"app/knittedGlove.html"
+			],
+			[
+				"c",
+				"app/chemicalGlove.html"
+			],
+			[
+				"index.",
+				"app/index.html"
+			],
+			[
+				"abou",
+				"app/about.html"
+			],
+			[
+				"scrol",
+				"app/scripts/scroll.js"
+			],
+			[
+				"jquerymdalrea",
+				"bower_components/jquery-modal/README.md"
+			],
+			[
+				"jquery-modal",
+				"bower_components/jquery-modal/jquery.modal.js"
+			],
+			[
+				"carouse",
+				"bower_components/carouFredSel/jquery.carouFredSel-6.2.1.js"
+			],
+			[
+				"main",
+				"app/scripts/main.js"
+			],
+			[
+				"setu",
+				"test/setup.js"
+			],
+			[
+				"karma",
+				"karma.conf.js"
+			],
+			[
+				"jasmine-j",
+				"node_modules/jasmine-jquery/lib/jasmine-jquery.js"
+			],
+			[
+				"mocka",
+				"node_modules/btakita-jasmine-ajax/lib/mock-ajax.js"
+			],
+			[
+				"jasmine-jquer",
+				"node_modules/jasmine-jquery/lib/jasmine-jquery.js"
+			],
+			[
+				"setup",
+				"test/setup.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"mock-",
+				"bower_components/jasmine-ajax/lib/mock-ajax.js"
+			],
+			[
+				"chemi",
+				"app/chemicalGlove.html"
+			],
+			[
+				"carousel",
+				"bower_components/carouFredSel/jquery.carouFredSel-6.2.1.js"
+			],
+			[
+				"chemica",
+				"app/chemicalGlove.html"
+			],
+			[
+				"news",
+				"app/news.html"
+			],
+			[
+				"aboutvisi",
+				"app/aboutVision.html"
+			],
+			[
+				"news.hml",
+				"app/news.html"
+			],
+			[
+				"moda",
+				"app/scripts/modal.js"
+			],
+			[
+				"slide.js",
+				"app/scripts/slide.js"
+			],
+			[
+				"viewn",
+				"app/viewNews.html"
+			],
+			[
+				"page.js",
+				"app/scripts/page.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"news.",
+				"app/news.html"
+			],
+			[
+				"teste",
+				"testem.json"
+			],
+			[
+				"jquery",
+				"bower_components/jquery/jquery.js"
+			],
+			[
+				"slide",
+				"app/scripts/slide.js"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"compose",
+				"composer.json"
+			],
+			[
+				"index.php",
+				"api/index.php"
+			],
+			[
+				"app.j",
+				"app.js"
+			],
+			[
+				"daftar",
+				"app/store/DaftarKemacetan.js"
+			],
+			[
+				"grid-r",
+				"bower_components/pure/grids-core.css"
+			],
+			[
+				"collectionspe",
+				"tests/apps/Entities/Activity/ActivityCollectionSpec.js"
+			],
+			[
+				"bones.php",
+				"library/bones.php"
+			],
+			[
+				"testet",
+				"Code/UnitTestAjax/testem.json"
+			],
+			[
+				"mock",
+				"Code/UnitTestAjax/tests/libs/mock-ajax.js"
+			],
+			[
+				"newactivi",
+				"apps/Activity/NewActivity/NewActivityApp.js"
+			],
+			[
+				"status",
+				"apps/Entities/Status/Status.js"
+			],
+			[
+				"base",
+				"apps/Entities/Base/Base.js"
+			],
+			[
+				"activityspe",
+				"tests/apps/Entities/Activity/ActivitySpec.js"
+			],
+			[
+				"activity.js",
+				"apps/Entities/Activity/Activity.js"
+			],
+			[
+				"contentplsp",
+				"tests/apps/Activity/Plugins/ContentPluginRendererSpec.js"
+			],
+			[
+				"newact/presntrsp",
+				"tests/apps/Activity/NewActivity/PresenterSpec.js"
+			],
+			[
+				"image",
+				"apps/Activity/Plugins/ImageContentPlugin.js"
+			],
+			[
+				"contentplug",
+				"apps/Activity/Plugins/ContentPluginRenderer.js"
+			],
+			[
+				"newactipl",
+				"apps/Activity/NewActivity/NewActivityPlugin.js"
+			],
+			[
+				"conf.",
+				"apps/Conf.js"
+			],
+			[
+				"newactivap",
+				"apps/Activity/NewActivity/NewActivityApp.js"
+			],
+			[
+				"contentview",
+				"apps/Activity/NewActivity/ContentView.js"
+			],
+			[
+				"contentviewspe",
+				"tests/apps/Activity/NewActivity/ContentViewSpec.js"
+			],
+			[
+				"activityconte",
+				"tests/fixtures/activityContent.html"
+			],
+			[
+				"activityhtml",
+				"tests/fixtures/newActivityBox.html"
+			],
+			[
+				"contentvew",
+				"apps/Activity/NewActivity/ContentView.js"
+			],
+			[
+				"deletespec",
+				"tests/apps/Activity/DeleteActivity/PresenterSpec.js"
+			],
+			[
+				"activityviewspe",
+				"tests/apps/Activity/ListActivities/ActivityViewSpec.js"
+			],
+			[
+				"app.p",
+				"juriya/public/app.php"
+			],
+			[
+				"header.php",
+				"wp-content/themes/confit-custom/header.php"
+			],
+			[
+				"uploa",
+				"code/drag-n-ajax/upload.php"
+			],
+			[
+				"upload",
+				"code/drag-n-ajax/upload.php"
+			],
+			[
+				"menggun",
+				"Blog/mengunggah menggunakan ajax.md"
+			],
+			[
+				"ajastyl",
+				"Blog/Code/drag-n-ajax/style.css"
+			],
+			[
+				"ajax/scr",
+				"Blog/Code/drag-n-ajax/script.js"
+			],
+			[
+				"ajax/ind",
+				"Blog/Code/drag-n-ajax/index.html"
+			],
+			[
+				"mengungg",
+				"Mengunggah berkas dengan cara drag-drop.md"
+			],
+			[
+				"ungg",
+				"dd/unggah.js"
+			],
+			[
+				"app.php",
+				"app/config/app.php"
+			],
+			[
+				"rout",
+				"app/routes.php"
+			],
+			[
+				"app.bl",
+				"public/views/app.blade.php"
+			],
+			[
+				"backbone.mari",
+				"public/vendor/marionette/lib/backbone.marionette.js"
+			],
+			[
+				"teamm",
+				"public/views/templates/team.mustache"
+			],
+			[
+				"mustachrender",
+				"public/js/app/Helpers/MustacheRenderer.js"
+			],
+			[
+				"teamjs",
+				"public/js/app/Team.js"
+			],
+			[
+				"app",
+				"public/views/app.blade.php"
+			],
+			[
+				"test-ma",
+				"public/js/tests/test-main.js"
+			],
+			[
+				"team.mu",
+				"public/views/templates/team.mustache"
+			],
+			[
+				"containerspec",
+				"public/js/tests/specs/Images/Container/ContainerViewSpec.js"
+			],
+			[
+				"backbone.mario",
+				"public/vendor/marionette/lib/backbone.marionette.js"
+			],
+			[
+				"test-main",
+				"public/js/tests/test-main.js"
+			],
+			[
+				"containerview",
+				"public/js/app/Images/Container/ContainerView.js"
+			],
+			[
+				"team",
+				"public/views/templates/team.mustache"
+			],
+			[
+				"backbmar",
+				"public/vendor/marionette/lib/backbone.marionette.js"
+			],
+			[
+				"backbone.mar",
+				"public/vendor/marionette/lib/backbone.marionette.js"
+			],
+			[
+				"app.bla",
+				"public/views/app.blade.php"
+			],
+			[
+				"container",
+				"public/js/app/Images/Container/ContainerApp.js"
+			],
+			[
+				"containvspe",
+				"public/js/tests/specs/Images/Container/ContainerViewSpec.js"
+			],
+			[
+				"contav",
+				"public/js/app/Images/Container/ContainerView.js"
+			],
+			[
+				"backoe",
+				"public/vendor/backbone/backbone.js"
+			],
+			[
+				"confphp",
+				"vendor/swiftmailer/swiftmailer/test-suite/config.php"
+			],
+			[
+				"view",
+				"app/config/view.php"
+			],
+			[
+				"route",
+				"app/routes.php"
+			],
+			[
+				"datab",
+				"app/config/database.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"start.",
+				"bootstrap/start.php"
+			],
+			[
+				"backbmarion",
+				"bower_components/backbone.marionette/lib/backbone.marionette.js"
+			],
+			[
+				"activiviews",
+				"tests/apps/Activity/ListActivities/ActivityViewSpec.js"
+			],
+			[
+				"activiview",
+				"apps/Activity/ListActivities/ActivityView.js"
+			],
+			[
+				"activitview",
+				"apps/Activity/ListActivities/ActivityView.js"
+			],
+			[
+				"activispe",
+				"tests/apps/Entities/Activity/ActivitySpec.js"
+			],
+			[
+				"activitcoll",
+				"tests/apps/Entities/Activity/ActivityCollectionSpec.js"
+			],
+			[
+				"activitispe",
+				"tests/apps/Activity/ListActivities/ActivitiesViewSpec.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}
