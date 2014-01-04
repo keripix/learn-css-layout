@@ -8,7 +8,7 @@ So, if you've found my implementation to be incorrect, I would be very honored i
 
 The target of this project is to replicate Google Keep's layout.
 
-## Requirements
+## Development Requirements
 
 1. NodeJS
 2. Gulp: `npm -g install gulp`
