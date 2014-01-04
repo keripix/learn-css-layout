@@ -55,6 +55,9 @@ label.toggle-label:hover {
   border: 1px solid yellow;
   min-height: 150px;
 }
+.item-yellow {
+  background-color: #F39C12;
+}
 .item > header {
   text-align: center;
 }

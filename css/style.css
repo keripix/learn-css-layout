@@ -171,7 +171,7 @@ footer {
 }
 .l-article-group > .item {
   display: inline-block;
-  margin: 0 1%;
+  margin: 0 1% 10px 1%;
   width: 31%;
 }
 /**
@@ -230,6 +230,9 @@ label.toggle-label:hover {
 .item {
   border: 1px solid yellow;
   min-height: 150px;
+}
+.item-yellow {
+  background-color: #F39C12;
 }
 .item > header {
   text-align: center;
