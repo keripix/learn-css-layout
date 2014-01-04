@@ -1,0 +1,61 @@
+/**
+ * LAYOUT
+ */
+
+.l-fixed-top
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.l-group:before,
+.l-group:after
+{
+    content: "";
+    display: table;
+}
+
+.l-group:after
+{
+    clear: both;
+}
+
+.l-group
+{
+    *zoom: 1;
+}
+
+.l-top-header
+{
+    display: block;
+}
+
+.l-bottom-header
+{
+    display: block;
+}
+
+.l-stick-left
+{
+    position: fixed;
+    left: 0;
+}
+
+.l-content
+{
+    position: relative;
+    height: 100%;
+    bottom: 0;
+}
+
+.l-fixed-top ~ .l-content
+{
+    top: 80px;
+    left: 0;
+}
+
+.l-bottom
+{
+
+}

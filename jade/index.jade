@@ -1,0 +1,49 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    title Learn CSS Layout
+    link(rel='stylesheet', href='css/style.css')
+  body
+    header.l-fixed-top.main-header
+      // this is meant ot be at the top of the header 
+      section.l-top-header.l-group
+        // this is meant to be site's main title 
+        h1.main-title Learn CSS Layout
+        input(type='text', placeholder='Yang ingin dicari...')
+      // this is meant to be at the bottom of the header 
+      section.l-bottom-header
+        input#toggle(type='checkbox')
+        label(for='toggle') ☰
+        // to be placed on the right 
+        p
+    // this is meant to be hidden by default. it will be shown when toggled by #toggle 
+    aside.l-stick-left
+      nav.category-navigation
+        ul
+          li
+            a(href='', title='')
+    // this is meant to be the place where each item is shown 
+    .l-content.article-group(role='main')
+      article
+        header
+          h2 CSS Experiments
+      article
+        header
+          h2 DOM Experiments
+      article
+        header
+          h2 AJAX Experiments
+      article
+        header
+          h2 Canvas Experiments
+      article
+        header
+          h2 SVG Experiments
+      article
+        header
+          h2 WebRTC Experiments
+    // this is meant to be a footer 
+    footer.l-bottom
+      p This is a footer
