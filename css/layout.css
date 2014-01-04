@@ -37,3 +37,8 @@
 .l-right {
   float: right;
 }
+.l-article-group > .item {
+  display: inline-block;
+  margin: 0 1%;
+  width: 31%;
+}

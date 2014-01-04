@@ -37,6 +37,7 @@ input.toggle-input {
 
     &:checked ~ .category-navigation {
         max-height: 500px;
+        max-width: 100px;
     }
 }
 
@@ -54,6 +55,7 @@ label.toggle-label {
     overflow: hidden;
     z-index: 10;
     max-height: 0;
+    max-width: 0;
 
     transition: all .2s linear;
 }
@@ -63,13 +65,12 @@ label.toggle-label {
     vertical-align: middle;
 }
 
-.article-group > .item {
-    display: inline-block;
-}
-
 .item {
     border: 1px solid yellow;
 
-    min-height: 125px;
-    min-width: 300px;
+    min-height: 150px;
+}
+
+.item > header {
+    text-align: center;
 }
