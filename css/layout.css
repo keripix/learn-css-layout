@@ -42,3 +42,9 @@
   margin: 0 1% 10px 1%;
   width: 31%;
 }
+.l-bottom {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
