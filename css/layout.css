@@ -20,12 +20,6 @@
   top: 0;
   left: 0;
 }
-.l-top-header {
-  display: block;
-}
-.l-bottom-header {
-  display: block;
-}
 .l-stick-left {
   position: fixed;
   left: 0;

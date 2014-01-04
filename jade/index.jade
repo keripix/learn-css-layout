@@ -14,16 +14,17 @@ html
         input.search-input(type='text', placeholder='Yang ingin dicari...')
       // this is meant to be at the bottom of the header 
       section.l-bottom-header
-        input#toggle(type='checkbox')
-        label(for='toggle') ☰
+        input#toggle.toggle-input(type='checkbox')
+        label.toggle-label(for='toggle') ☰
+        nav.category-navigation
+          ul
+            li
+              a(href='#', title='Active') Active
+              a(href='#', title='Archived') Archived
+              a(href='#', title='Reminders') Reminders
         // to be placed on the right 
         p
-    // this is meant to be hidden by default. it will be shown when toggled by #toggle 
-    aside.l-stick-left
-      nav.category-navigation
-        ul
-          li
-            a(href='', title='')
+      
     // this is meant to be the place where each item is shown 
     .l-content.article-group(role='main')
       article
