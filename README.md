@@ -4,6 +4,10 @@ This project is created in a need to understand CSS Layouts and writing it prope
 
 So, if you've found my implementation to be incorrect, I would be very honored if you open a discussion on this project issue's page. A pull request would be very awesome too.
 
+## Target
+
+The target of this project is to replicate Google Keep's layout.
+
 ## Requirements
 
 1. NodeJS
