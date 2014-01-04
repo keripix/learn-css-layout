@@ -218,3 +218,8 @@ label.toggle-label:hover {
   max-height: 0;
   transition: all .2s linear;
 }
+.item {
+  border: 1px solid yellow;
+  min-height: 125px;
+  float: left;
+}
