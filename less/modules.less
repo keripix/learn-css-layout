@@ -39,7 +39,7 @@ input.toggle-input
 
     &:checked ~ .category-navigation
     {
-        max-width: 250px;
+        max-height: 500px;
     }
 }
 
@@ -47,9 +47,19 @@ label.toggle-label
 {
     background-color: #ECF0F1;
     background: linear-gradient(#fff, #eee);
+    
     border: 1px solid #ccc;
     border-radius: 6px;
+    
     cursor: pointer;
+    
+    text-align: center;
+    
+    line-height: 29px;
+    width: 29px;
+
+    display: block;
+
 
     &:hover
     {
@@ -59,6 +69,9 @@ label.toggle-label
 
 .category-navigation
 {
-    max-width: 0;
     overflow: hidden;
+    z-index: 10;
+    max-height: 0;
+
+    transition: all .2s linear;
 }

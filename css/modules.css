@@ -26,7 +26,7 @@ input.toggle-input:checked + .toggle-label {
   color: #C24032;
 }
 input.toggle-input:checked ~ .category-navigation {
-  max-width: 250px;
+  max-height: 500px;
 }
 label.toggle-label {
   background-color: #ECF0F1;
@@ -34,11 +34,17 @@ label.toggle-label {
   border: 1px solid #ccc;
   border-radius: 6px;
   cursor: pointer;
+  text-align: center;
+  line-height: 29px;
+  width: 29px;
+  display: block;
 }
 label.toggle-label:hover {
   color: #E74C3C;
 }
 .category-navigation {
-  max-width: 0;
   overflow: hidden;
+  z-index: 10;
+  max-height: 0;
+  transition: all .2s linear;
 }
