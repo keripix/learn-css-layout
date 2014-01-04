@@ -6,16 +6,16 @@ html
     title Learn CSS Layout
     link(rel='stylesheet', href='css/style.css')
   body
-    header.l-fixed-top.main-header
+    header.l-header.header-main.fixed-top
       // this is meant ot be at the top of the header 
-      section.l-top-header.l-group
+      section.l-group
         // this is meant to be site's main title 
-        h1.main-title Learn CSS Layout
+        h1.title-main Learn CSS Layout
         input.search-input(type='text', placeholder='Yang ingin dicari...')
       // this is meant to be at the bottom of the header 
-      section.l-bottom-header
+      section.l-group
         input#toggle.toggle-input(type='checkbox')
-        label.toggle-label(for='toggle') ☰
+        label.toggle-label(for='toggle') ☰ Menu
         nav.category-navigation
           ul
             li
@@ -23,8 +23,9 @@ html
               a(href='#', title='Archived') Archived
               a(href='#', title='Reminders') Reminders
         // to be placed on the right 
-        p.l-right Vertical
-        p.l-right Horizontal
+        div.l-right
+          button.orientation-button H
+          button.orientation-button V
       
     // this is meant to be the place where each item is shown 
     .l-content.l-group.article-group(role='main')

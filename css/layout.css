@@ -15,10 +15,11 @@
 .l-group {
   *zoom: 1;
 }
-.l-fixed-top {
-  position: fixed;
+.l-header {
   top: 0;
   left: 0;
+  z-index: 1000;
+  width: 100%;
 }
 .l-stick-left {
   position: fixed;
@@ -29,8 +30,8 @@
   height: 100%;
   bottom: 0;
 }
-.l-fixed-top ~ .l-content {
-  top: 80px;
+.l-header ~ .l-content {
+  top: 100px;
   left: 0;
 }
 .l-right {

@@ -23,11 +23,12 @@
 }
 // -- end grouping
 
-.l-fixed-top
+.l-header
 {
-    position: fixed;
     top: 0;
     left: 0;
+    z-index: 1000;
+    width: 100%;
 }
 
 .l-stick-left
@@ -43,9 +44,9 @@
     bottom: 0;
 }
 
-.l-fixed-top ~ .l-content
+.l-header ~ .l-content
 {
-    top: 80px;
+    top: 100px;
     left: 0;
 }
 
