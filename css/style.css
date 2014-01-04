@@ -133,11 +133,9 @@ footer {
 /**
  * LAYOUT
  */
-.l-fixed-top {
-  position: fixed;
-  top: 0;
-  left: 0;
-}
+/**
+ * Grouping for containing floats
+ */
 .l-group:before,
 .l-group:after {
   content: "";
@@ -148,6 +146,11 @@ footer {
 }
 .l-group {
   *zoom: 1;
+}
+.l-fixed-top {
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 .l-top-header {
   display: block;
@@ -179,7 +182,11 @@ footer {
 .main-title {
   font-size: 2em;
   float: left;
+  margin-right: 48px;
 }
 .article-group {
   background-color: #F1DB82;
+}
+.search-input {
+  height: 24px;
 }

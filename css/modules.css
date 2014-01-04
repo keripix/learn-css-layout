@@ -9,7 +9,11 @@
 .main-title {
   font-size: 2em;
   float: left;
+  margin-right: 48px;
 }
 .article-group {
   background-color: #F1DB82;
+}
+.search-input {
+  height: 24px;
 }
