@@ -1,5 +1,7 @@
 ## About
 
+**IN PROGRESS**
+
 This project is an experiment in learning about CSS Layout and SMACSS.
 
 I realise that this project may not reflect SMACSS' true intention. But I've tried my best to follow the SMACSS' guidance and some tips from a couple of resources. So, if you've found my implementation to be incorrect, I would be very honored if you'd open a discussion on this project issue's page. A pull request would be very awesome too.
