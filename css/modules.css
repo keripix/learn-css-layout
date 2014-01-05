@@ -53,7 +53,7 @@ label.toggle-label:hover {
 .column-item-header {
   text-align: center;
 }
-.column-item li > input {
+.todo-list input {
   display: block;
 }
 .column-item-yellow {
