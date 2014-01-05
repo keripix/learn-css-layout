@@ -21,6 +21,9 @@
   z-index: 1000;
   width: 100%;
 }
+.l-header button {
+  height: 32px;
+}
 .l-stick-left {
   position: fixed;
   left: 0;

@@ -16,9 +16,6 @@
 .search-input {
   height: 24px;
 }
-.search-button {
-  height: 32px;
-}
 /**
  * TOP NAVIGATION
  */
@@ -62,10 +59,6 @@ label.toggle-label:hover {
 .category-navigation a {
   display: block;
   color: #323232;
-}
-.orientation-button {
-  height: 29px;
-  vertical-align: middle;
 }
 /**
  * COLUMNS
