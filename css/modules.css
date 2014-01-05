@@ -50,12 +50,12 @@ label.toggle-label:hover {
   border: 1px solid yellow;
   min-height: 90px;
 }
-.column-item-yellow {
-  background-color: #F39C12;
-}
-.column-item > header {
+.column-item-header {
   text-align: center;
 }
 .column-item li > input {
   display: block;
+}
+.column-item-yellow {
+  background-color: #F39C12;
 }
