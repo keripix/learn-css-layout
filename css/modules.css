@@ -46,16 +46,17 @@ label.toggle-label:hover {
 .category-navigation {
   position: relative;
   top: 60px;
-  left: 0;
+  left: -60px;
   background-color: #ff5442;
   overflow: hidden;
   z-index: 10;
   max-width: 0;
-  padding: 0;
+  padding: 5px 0;
   transition: all .2s linear;
 }
 .category-navigation a {
   display: block;
+  color: #ecf0f1;
 }
 .orientation-button {
   height: 29px;
