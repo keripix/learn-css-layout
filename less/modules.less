@@ -60,38 +60,46 @@ label.toggle-label {
     vertical-align: middle;
 }
 
+/**
+ * COLUMNS
+ */
+
 .column-item {
-    border: 1px solid yellow;
     min-height: 90px;
+    border: 2px #D0D0D0 solid;
 }
 
-.column-item-header {
+/**
+ * NOTE
+ */
+
+.note-header {
     text-align: center;
 }
 
-.column-item-yellow {
+.note-yellow {
     background-color: @yellow-color;
 }
 
-.column-item-blue {
+.note-blue {
     background-color: @blue-color;
 }
 
-.column-item-green {
+.note-green {
     background-color: @green-color;
 }
 
-.column-item-red {
+.note-red {
     background-color: @red-color;
 }
 
-.note {
-    padding: 6px;
+.note-content {
+    padding: 8px;
     max-height: 300px;
     overflow-x: auto;
 }
 
-.todo-list input {
+.note-todo input {
     display: block;
 }
 
@@ -100,3 +108,7 @@ label.toggle-label {
     height: 80%;
 }
 
+.note-text p {
+    font-size: 0.9em;
+    font-color: #323232;    
+}

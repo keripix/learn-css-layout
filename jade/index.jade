@@ -28,64 +28,70 @@ html
 
     .l-content.l-group.l-article-group(role='main')
       .l-masonry-column
-        article.column-item.column-item-green
-          header.column-item-header
+        article.column-item.note.note-green
+          header.note-header
             h2 CSS Experiments
-          .note.note-image
-            img(src='./pics/learn-layout.png')
-          .note.note-text
-            p Need to study CSS Layout
-        article.column-item.column-item-yellow
-          header.column-item-header
+          .note-content
+            .note-image
+              img(src='./pics/learn-layout.png')
+            .note-text
+              p Need to study CSS Layout
+        article.column-item.note.note-yellow
+          header.note-header
             h2 DOM Experiments
-          ul.note.todo-list
-            li
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-        article.column-item.column-item-red
-          header.column-item-header
+          .note-content
+            ul.note-todo
+              li
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+        article.column-item.note.note-red
+          header.note-header
             h2 AJAX Experiments
-        article.column-item.column-item-yellow
-          header.column-item-header
+          .note-content
+        article.column-item.note.note-yellow
+          header.note-header
             h2 Canvas Experiments
-          ul.note.todo-list
-            li
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-        article.column-item.column-item-blue
-          header.column-item-header
+          .note-content
+            ul.note-todo
+              li
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+        article.column-item.note.note-blue
+          header.note-header
             h2 SVG Experiments
-          .note.note-text
-            p Where's the lorum itsum?
-        article.column-item.column-item-yellow
-          header.column-item-header
+          .note-content
+            .note-text
+              p Where's the lorum itsum?
+        article.column-item.note.note-yellow
+          header.note-header
             h2 WebRTC Experiments
-          ul.note.todo-list
-            li
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
-              input(type='checkbox')
+          .note-content
+            ul.note-todo
+              li
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
+                input(type='checkbox')
     // this is meant to be a footer 
     // TODO still incorrect
     footer.l-bottom
