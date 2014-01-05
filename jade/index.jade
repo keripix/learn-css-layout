@@ -5,11 +5,15 @@ html
     meta(http-equiv='X-UA-Compatible', content='IE=edge')
     title Learn CSS Layout
     link(rel='stylesheet', href='css/style.css')
+    link(href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css',rel="stylesheet")
+
   body
     header.l-header.l-fixed-top.header-main
       section.l-group
         h1.title-main Learn CSS Layout
         input.search-input(type='text', placeholder='Yang ingin dicari...')
+        button.search-button
+          i.fa.fa-search
       section.l-group.top-navigation
         input#toggle.toggle-input.l-left(type='checkbox')
         label.toggle-label.l-left(for='toggle') ☰ Menu

@@ -126,6 +126,9 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+body {
+  color: #323232;
+}
 footer {
   text-align: center;
   clear: float;
@@ -218,6 +221,9 @@ footer {
 }
 .search-input {
   height: 24px;
+}
+.search-button {
+  height: 32px;
 }
 /**
  * TOP NAVIGATION
