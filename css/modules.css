@@ -2,7 +2,7 @@
  * MODULES
  */
 .header-main {
-  background-color: #E79189;
+  background-color: #ff8275;
   height: 64px;
 }
 .title-main {
@@ -11,7 +11,7 @@
   margin-right: 48px;
 }
 .article-group {
-  background-color: #F1DB82;
+  background-color: #f4d03f;
 }
 .search-input {
   height: 24px;
@@ -54,7 +54,16 @@ label.toggle-label:hover {
   text-align: center;
 }
 .column-item-yellow {
-  background-color: #F39C12;
+  background-color: #f1c40f;
+}
+.column-item-blue {
+  background-color: #3498db;
+}
+.column-item-green {
+  background-color: #2ecc71;
+}
+.column-item-red {
+  background-color: #ff5442;
 }
 .note {
   padding: 6px;

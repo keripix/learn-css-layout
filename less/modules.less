@@ -1,9 +1,10 @@
 /**
  * MODULES
  */
+@import "variable.less";
 
 .header-main {
-    background-color: #E79189;
+    background-color: lighten(@red-color, 10%);
     height: 64px;
 }
 
@@ -14,7 +15,7 @@
 }
 
 .article-group {
-    background-color: #F1DB82;
+    background-color: lighten(@yellow-color, 10%);
 }
 
 .search-input {
@@ -69,7 +70,19 @@ label.toggle-label {
 }
 
 .column-item-yellow {
-    background-color: #F39C12;
+    background-color: @yellow-color;
+}
+
+.column-item-blue {
+    background-color: @blue-color;
+}
+
+.column-item-green {
+    background-color: @green-color;
+}
+
+.column-item-red {
+    background-color: @red-color;
 }
 
 .note {
