@@ -169,10 +169,22 @@ footer {
 .l-right {
   float: right;
 }
-.l-article-group > .item {
+.l-article-group {
+  width: 100%;
+}
+.l-masonry-column {
+  -moz-column-count: 3;
+  -moz-column-gap: 10px;
+  -webkit-column-count: 3;
+  -webkit-column-gap: 10px;
+  column-count: 3;
+  column-gap: 10px;
+  width: 100%;
+}
+.l-masonry-column > .item {
   display: inline-block;
-  margin: 0 1% 10px 1%;
-  width: 31%;
+  width: 100%;
+  margin-bottom: 10px;
 }
 .l-bottom {
   position: fixed;
@@ -242,4 +254,7 @@ label.toggle-label:hover {
 }
 .item > header {
   text-align: center;
+}
+.item li > input {
+  display: block;
 }

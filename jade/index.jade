@@ -27,27 +27,34 @@ html
           button.orientation-button V
 
     .l-content.l-group.l-article-group(role='main')
-      article.item.item-yellow
-        header
-          h2 CSS Experiments
-      article.item.item-yellow
-        header
-          h2 DOM Experiments
-        ul
-          li
-            input(type='checkbox')
-      article.item.item-yellow
-        header
-          h2 AJAX Experiments
-      article.item.item-yellow
-        header
-          h2 Canvas Experiments
-      article.item.item-yellow
-        header
-          h2 SVG Experiments
-      article.item.item-yellow
-        header
-          h2 WebRTC Experiments
+      .l-masonry-column
+        article.item.item-yellow
+          header
+            h2 CSS Experiments
+        article.item.item-yellow
+          header
+            h2 DOM Experiments
+          ul
+            li
+              input(type='checkbox')
+              input(type='checkbox')
+              input(type='checkbox')
+              input(type='checkbox')
+              input(type='checkbox')
+              input(type='checkbox')
+              input(type='checkbox')
+        article.item.item-yellow
+          header
+            h2 AJAX Experiments
+        article.item.item-yellow
+          header
+            h2 Canvas Experiments
+        article.item.item-yellow
+          header
+            h2 SVG Experiments
+        article.item.item-yellow
+          header
+            h2 WebRTC Experiments
     // this is meant to be a footer 
     // TODO still incorrect
     footer.l-bottom

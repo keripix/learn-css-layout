@@ -61,3 +61,6 @@ label.toggle-label:hover {
 .item > header {
   text-align: center;
 }
+.item li > input {
+  display: block;
+}
