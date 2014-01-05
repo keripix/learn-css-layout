@@ -258,6 +258,8 @@ label.toggle-label:hover {
 }
 .note {
   padding: 6px;
+  max-height: 300px;
+  overflow-x: auto;
 }
 .todo-list input {
   display: block;
