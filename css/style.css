@@ -253,9 +253,16 @@ label.toggle-label:hover {
 .column-item-header {
   text-align: center;
 }
+.column-item-yellow {
+  background-color: #F39C12;
+}
+.note {
+  padding: 6px;
+}
 .todo-list input {
   display: block;
 }
-.column-item-yellow {
-  background-color: #F39C12;
+.note-image img {
+  width: 100%;
+  height: 80%;
 }
