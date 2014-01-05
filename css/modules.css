@@ -71,6 +71,7 @@ label.toggle-label:hover {
  */
 .note {
   box-shadow: 2px 2px 3px #888888;
+  position: relative;
 }
 .note-header {
   text-align: center;
@@ -102,4 +103,11 @@ label.toggle-label:hover {
 }
 .note-text p {
   font-color: #323232;
+}
+.note-footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }

@@ -129,10 +129,6 @@ table {
 body {
   color: #323232;
 }
-footer {
-  text-align: center;
-  clear: float;
-}
 /**
  * LAYOUT
  */
@@ -207,6 +203,15 @@ footer {
   left: 0;
   width: 100%;
 }
+.l-grid {
+  width: 100%;
+}
+[class^='l-col-'] {
+  float: left;
+}
+.l-col-1-4 {
+  width: 25%;
+}
 /**
  * MODULES
  */
@@ -280,6 +285,7 @@ label.toggle-label:hover {
  */
 .note {
   box-shadow: 2px 2px 3px #888888;
+  position: relative;
 }
 .note-header {
   text-align: center;
@@ -311,4 +317,11 @@ label.toggle-label:hover {
 }
 .note-text p {
   font-color: #323232;
+}
+.note-footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
