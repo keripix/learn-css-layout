@@ -235,7 +235,7 @@ input.toggle-input:checked + .toggle-label {
 }
 input.toggle-input:checked ~ .category-navigation {
   height: 100%;
-  max-width: 200px;
+  min-width: 200px;
   padding: 5px 10px;
 }
 label.toggle-label {
