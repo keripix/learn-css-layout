@@ -31,7 +31,6 @@ input.toggle-input:checked + .toggle-label {
   color: #585858;
 }
 input.toggle-input:checked ~ .category-navigation {
-  height: 100%;
   min-width: 200px;
   padding: 5px 10px;
   box-shadow: 2px 2px 3px #888888;
@@ -45,12 +44,13 @@ label.toggle-label:hover {
   color: #656565;
 }
 .category-navigation {
-  position: relative;
-  top: 30px;
-  left: -60px;
-  background-color: #ff5442;
+  position: fixed;
+  top: 63px;
+  left: 0;
+  background-color: #ffb0a8;
   overflow: hidden;
   z-index: 10;
+  height: 100%;
   max-width: 0;
   padding: 5px 0;
   box-shadow: none;
@@ -58,7 +58,7 @@ label.toggle-label:hover {
 }
 .category-navigation a {
   display: block;
-  color: #ecf0f1;
+  color: #323232;
 }
 .orientation-button {
   height: 29px;
