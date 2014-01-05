@@ -16,16 +16,24 @@
 .search-input {
   height: 24px;
 }
+/**
+ * TOP NAVIGATION
+ */
+.top-navigation {
+  position: relative;
+  left: 0;
+}
 input.toggle-input {
   display: none;
 }
 input.toggle-input:checked + .toggle-label {
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
-  color: #C24032;
+  color: #585858;
 }
 input.toggle-input:checked ~ .category-navigation {
-  max-height: 500px;
-  max-width: 100px;
+  height: 100%;
+  max-width: 200px;
+  padding: 5px 10px;
 }
 label.toggle-label {
   cursor: pointer;
@@ -33,14 +41,21 @@ label.toggle-label {
   line-height: 29px;
 }
 label.toggle-label:hover {
-  color: #E74C3C;
+  color: #656565;
 }
 .category-navigation {
+  position: relative;
+  top: 60px;
+  left: 0;
+  background-color: #ff5442;
   overflow: hidden;
   z-index: 10;
-  max-height: 0;
   max-width: 0;
+  padding: 0;
   transition: all .2s linear;
+}
+.category-navigation a {
+  display: block;
 }
 .orientation-button {
   height: 29px;
