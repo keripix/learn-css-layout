@@ -12,9 +12,9 @@ html
         input.search-input(type='text', placeholder='Yang ingin dicari...')
       section.l-group
         // TODO still incorrect
-        input#toggle.toggle-input(type='checkbox')
-        label.toggle-label(for='toggle') ☰ Menu
-        nav.category-navigation
+        input#toggle.toggle-input.l-left(type='checkbox')
+        label.toggle-label.l-left(for='toggle') ☰ Menu
+        nav.category-navigation.l-left
           ul
             li
               a(href='#', title='Active') Active
@@ -73,7 +73,7 @@ html
             .note-text
               p Where's the lorum itsum?
           footer.note-footer
-        article.column-item.note.note-yellow
+        article.column-item.note.note-blue
           header.note-header
             h2 WebRTC Experiments
           .note-content

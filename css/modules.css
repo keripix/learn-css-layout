@@ -60,6 +60,7 @@ label.toggle-label:hover {
 }
 .note-header {
   text-align: center;
+  height: 24px;
 }
 .note-yellow {
   background-color: #f1c40f;
