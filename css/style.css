@@ -321,6 +321,12 @@ label.toggle-label:hover {
   width: 15%;
   visibility: hidden;
 }
+.note-footer-item a {
+  color: #656565;
+}
+.note-footer-item a:hover {
+  color: #323232;
+}
 .note:hover .note-footer-item {
   visibility: visible;
 }
