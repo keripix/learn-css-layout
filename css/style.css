@@ -170,7 +170,8 @@ footer {
   float: right;
 }
 .l-article-group {
-  width: 100%;
+  width: 90%;
+  margin: 0 auto;
 }
 .l-masonry-column {
   -moz-column-count: 3;
