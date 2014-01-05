@@ -203,15 +203,6 @@ body {
   left: 0;
   width: 100%;
 }
-.l-grid {
-  width: 100%;
-}
-[class^='l-col-'] {
-  float: left;
-}
-.l-col-1-4 {
-  width: 25%;
-}
 /**
  * MODULES
  */
@@ -324,4 +315,12 @@ label.toggle-label:hover {
   bottom: 0;
   width: 100%;
   text-align: center;
+}
+.note-footer-item {
+  float: left;
+  width: 15%;
+  visibility: hidden;
+}
+.note:hover .note-footer-item {
+  visibility: visible;
 }

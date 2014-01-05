@@ -111,3 +111,11 @@ label.toggle-label:hover {
   width: 100%;
   text-align: center;
 }
+.note-footer-item {
+  float: left;
+  width: 15%;
+  visibility: hidden;
+}
+.note:hover .note-footer-item {
+  visibility: visible;
+}
