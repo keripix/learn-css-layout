@@ -25,6 +25,9 @@ To build the project, run this command:
 ## TODO
 
 1. Note Footer not working
+
+    Well, it's kind of working right now. But I had to specify the `margin-bottom` of `.note-content` property manually, and place an `:after` element with a manually set height. I'm not sure if that is a good approach. As far as I know, the value of `margin-bottom` should be the same as the height of the footer. I'm still finding a way so that we don't have to set it manually.
+
 2. Note Reminder not working
 
 ## Resources

@@ -104,7 +104,7 @@ label.toggle-label:hover {
 .note-content:after {
   content: "";
   display: block;
-  height: 24px;
+  height: 5px;
 }
 .note-todo input {
   display: block;
@@ -133,5 +133,7 @@ label.toggle-label:hover {
   color: #323232;
 }
 .note-reminder {
-  border-top: 1px dash #323232;
+  border-top: 1px solid #323232;
+  height: 24px;
+  width: 100%;
 }
