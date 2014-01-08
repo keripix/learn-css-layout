@@ -98,7 +98,6 @@ label.toggle-label {
 .note {
     box-shadow: 2px 2px 3px #888888;
     position: relative;
-    max-height: 380px;
 
     &:hover .note-footer-item {
         visibility: visible;
@@ -130,15 +129,10 @@ label.toggle-label {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     padding: 8px;
+    min-height: 80px;
     max-height: 250px;
     overflow-y: auto;
-    margin-bottom: 24px;
-
-    &:after {
-        content: "";
-        display: block;
-        height: 24px;
-    }
+    margin-bottom: 5px;
 }
 
 .note-todo input {
@@ -177,5 +171,4 @@ label.toggle-label {
 .note-reminder {
     border-top: 1px solid @black-color;
     height: 24px;
-    width: 100%;
 }
