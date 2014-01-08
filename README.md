@@ -22,6 +22,11 @@ To build the project, run this command:
 
 > gulp
 
+## TODO
+
+1. Note Footer not working
+2. Note Reminder not working
+
 ## Resources
 
 - [SMACSS](http://smacss.com/)
