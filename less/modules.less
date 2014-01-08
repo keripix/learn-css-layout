@@ -99,6 +99,10 @@ label.toggle-label {
     box-shadow: 2px 2px 3px #888888;
     position: relative;
     max-height: 380px;
+
+    &:hover .note-footer-item {
+        visibility: visible;
+    }
 }
 
 .note-header {
@@ -168,10 +172,6 @@ label.toggle-label {
     a:hover {
         color: @black-color;
     }
-}
-
-.note:hover .note-footer-item {
-    visibility: visible;
 }
 
 .note-reminder {

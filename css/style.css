@@ -279,6 +279,9 @@ label.toggle-label:hover {
   position: relative;
   max-height: 380px;
 }
+.note:hover .note-footer-item {
+  visibility: visible;
+}
 .note-header {
   text-align: center;
 }
@@ -333,9 +336,6 @@ label.toggle-label:hover {
 }
 .note-footer-item a:hover {
   color: #323232;
-}
-.note:hover .note-footer-item {
-  visibility: visible;
 }
 .note-reminder {
   border-top: 1px dash #323232;
