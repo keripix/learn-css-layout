@@ -72,6 +72,7 @@ label.toggle-label:hover {
 .note {
   box-shadow: 2px 2px 3px #888888;
   position: relative;
+  max-height: 350px;
 }
 .note-header {
   text-align: center;
@@ -93,7 +94,7 @@ label.toggle-label:hover {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   padding: 8px;
-  max-height: 300px;
+  max-height: 250px;
   overflow-y: auto;
 }
 .note-todo input {
@@ -107,9 +108,6 @@ label.toggle-label:hover {
   font-color: #323232;
 }
 .note-footer {
-  position: absolute;
-  left: 0;
-  bottom: 0;
   height: 24px;
   width: 100%;
   text-align: center;
