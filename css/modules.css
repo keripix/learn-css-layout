@@ -78,6 +78,7 @@ label.toggle-label:hover {
 }
 .note-header {
   text-align: center;
+  height: 24px;
 }
 .note-yellow {
   background-color: #f1c40f;
@@ -99,7 +100,6 @@ label.toggle-label:hover {
   min-height: 80px;
   max-height: 250px;
   overflow-y: auto;
-  margin-bottom: 5px;
 }
 .note-todo input {
   display: block;
@@ -112,9 +112,12 @@ label.toggle-label:hover {
   font-color: #323232;
 }
 .note-footer {
-  height: 24px;
   width: 100%;
   text-align: center;
+  min-height: 24px;
+}
+.note-footer-item-container {
+  height: 24px;
 }
 .note-footer-item {
   float: left;
