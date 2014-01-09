@@ -22,10 +22,6 @@ To build the project, run this command:
 
 > gulp
 
-## TODO
-
-1. Note Reminder not working
-
 ## Resources
 
 - [SMACSS](http://smacss.com/)
